@@ -20,3 +20,11 @@ This project aims to record age discrimination in the workplace, help job seeker
 内部要求、职场爆料等能证明该企业**存在35+ 年龄歧视**的可靠信息。
 
 **所有信息将在核实后整理入库，仅供求职者参考与避坑，不用于恶意攻击。感谢共同维护真实、有用的职场环境。**
+
+
+# **相关企业名单**
+
+| **企业名称** | **相关 Issues** |
+|---------|------------|
+| 示例公司A | [#1](https://github.com/你的用户名/over35-companies-china/issues/1) |
+| 示例公司B | [#3](https://github.com/你的用户名/over35-companies-china/issues/3) |
